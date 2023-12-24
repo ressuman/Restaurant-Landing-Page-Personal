@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Restaurant-Landing-Page-Personal/static/css/main.1e6ad8f7.css",
+    "main.js": "/Restaurant-Landing-Page-Personal/static/js/main.ac038031.js",
+    "static/js/787.6d6a3d73.chunk.js": "/Restaurant-Landing-Page-Personal/static/js/787.6d6a3d73.chunk.js",
+    "static/media/home-banner-image.png": "/Restaurant-Landing-Page-Personal/static/media/home-banner-image.a41849b23e5c36d66717.png",
+    "static/media/about-background-image.png": "/Restaurant-Landing-Page-Personal/static/media/about-background-image.d0e45280dd69dec26ee6.png",
+    "static/media/home-banner-background.png": "/Restaurant-Landing-Page-Personal/static/media/home-banner-background.585600da7ff85661555e.png",
+    "static/media/Logo.svg": "/Restaurant-Landing-Page-Personal/static/media/Logo.56ad59d23ceff242946a01628e79e275.svg",
+    "index.html": "/Restaurant-Landing-Page-Personal/index.html",
+    "main.1e6ad8f7.css.map": "/Restaurant-Landing-Page-Personal/static/css/main.1e6ad8f7.css.map",
+    "main.ac038031.js.map": "/Restaurant-Landing-Page-Personal/static/js/main.ac038031.js.map",
+    "787.6d6a3d73.chunk.js.map": "/Restaurant-Landing-Page-Personal/static/js/787.6d6a3d73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e6ad8f7.css",
+    "static/js/main.ac038031.js"
+  ]
+}
