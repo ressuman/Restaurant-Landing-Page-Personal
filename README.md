@@ -1,70 +1,33 @@
-# Getting Started with Create React App
+# A Restaurant Landing page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- first designed in figma and then coded in React. Hope you like it.
 
-## Available Scripts
+## Sections
 
-In the project directory, you can run:
+- Header
 
-### `npm start`
+Contains the restaurant name, logo and a search bar for customers to look for dishes.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Home
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Presents an engaging introduction to the restaurant, showcasing its ambiance, specialties, and featured dishes to entice visitors. This section often includes captivating visuals and essential navigation elements.
 
-### `npm test`
+- About
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Details the restaurant's story, mission, and values. It may include information about the chef, the establishment's history, and its commitment to quality and service.
 
-### `npm run build`
+- Contact
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Contains contact details such as address, phone number, email, and possibly a map for easy location identification. This section enables users to reach out or find the restaurant easily.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Testimonials
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Displays reviews and testimonials from satisfied customers, highlighting positive experiences and endorsements to build trust and credibility.
 
-### `npm run eject`
+- Cart
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Enables users to view selected items from the menu, facilitating the ordering process by showcasing items chosen for purchase. It may also include options for customization and quantity adjustments.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Bookings
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Provides a reservation system allowing users to book tables, select preferred timings, and sometimes specify special requirements or occasions.
